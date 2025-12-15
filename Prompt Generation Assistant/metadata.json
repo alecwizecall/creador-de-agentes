@@ -1,0 +1,5 @@
+{
+  "name": "Asistente de generación de prompts",
+  "description": "Una herramienta profesional para generar System Prompts robustos para tus chatbots de IA utilizando tus propios documentos, datos web e información comercial.",
+  "requestFramePermissions": []
+}
